@@ -6,4 +6,4 @@
 2. 기타 파일 : 크롤링 시 실제 코드
 
 3. Crawling Result : cafe , cafe_review file
-4. 
+
